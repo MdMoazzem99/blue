@@ -339,6 +339,7 @@ body {
     overflow: hidden;
     border-radius: 8px;
     background-color: #FEFFFC;
+    margin-top: 12px;
 }
 .app_store button img{
     float: left;
